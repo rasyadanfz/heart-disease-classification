@@ -1,5 +1,6 @@
 # Heart Disease Classification
-Using various machine learning and data science techniques &amp; libraries to attempt to predict heart disease based on medical attributes. Dataset from UCI Machine Learning Repository.
+Using various machine learning and data science techniques &amp; libraries to attempt to predict heart disease based on medical attributes. Dataset from UCI Machine Learning Repository.\
+View notebook at https://nbviewer.org/github/rasyadanfz/heart-disease-classification/blob/main/Heart%20Disease%20Classification.ipynb
 
 ## Exploratory Data Analysis (EDA) Insights
 - Heart disease target classes are quite balanced
